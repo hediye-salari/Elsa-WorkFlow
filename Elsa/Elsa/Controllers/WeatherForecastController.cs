@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Elsa.Controllers
+namespace Workflow.Controllers
 {
     [ApiController]
     [Route("[controller]")]

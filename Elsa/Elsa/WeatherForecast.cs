@@ -1,4 +1,4 @@
-namespace Elsa
+namespace Workflow
 {
     public class WeatherForecast
     {
